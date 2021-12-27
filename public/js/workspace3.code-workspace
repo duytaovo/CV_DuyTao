@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "Duy Tạo",
+			"path": "..\\..\\.."
+		},
+		{
+			"name": "app-chat-duytao",
+			"path": "..\\..\\..\\..\\app-chat-duytao"
+		},
+		{
+			"name": "shoppe",
+			"path": "..\\..\\..\\..\\shoppe"
+		},
+		{
+			"name": "html_css",
+			"path": "..\\..\\..\\..\\html_css"
+		},
+		{
+			"name": "app-chat-duytao-deploy-heroku",
+			"path": "..\\..\\..\\..\\app-chat-duytao-deploy-heroku"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Duy Tạo"
+	}
+}
